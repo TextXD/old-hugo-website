@@ -12,7 +12,7 @@ params:
   Date: "December 5 - 7"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Berkeley Institute for Data Science"
-  Address: "190 Doe Libary"
+  Address: "190 Doe Libary, University of California Berkeley,"
   City:  "Berkeley"
   State: "CA"
   Images: ["/img/badge.jpg"]
