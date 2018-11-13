@@ -3,7 +3,7 @@ title: "TextXD 2018"
 canonifyurls: true
 theme: "hugo-conference"
 
-GoogleAnalytics: "UA-9232216-1"
+GoogleAnalytics: "UA-129172079-1"
 
 params:
   # Conference info
@@ -12,7 +12,7 @@ params:
   Date: "December 5 - 7"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Berkeley Institute for Data Science"
-  Address: "190 Doe Libary, University of California Berkeley,"
+  Address: "190 Doe Libary, University of California Berkeley"
   City:  "Berkeley"
   State: "CA"
   Images: ["/img/badge.jpg"]
@@ -26,6 +26,7 @@ params:
     - speakers
     #- schedule
     - sponsors
+    - committee
     #- partners
     #- contact
 
@@ -36,6 +37,7 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     sponsors: "Sponsors"
+    committee: "Committee"
     #partners: "Partners"
     contact: "Contact"
 
