@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:textxd/textxd.org.git
+	branch = master
